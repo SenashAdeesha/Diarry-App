@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030335934733",
+    "project_id": "diary-app-a5772",
+    "storage_bucket": "diary-app-a5772.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030335934733:android:7129d5c6695da91f1b8044",
+        "android_client_info": {
+          "package_name": "com.example.diary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDao7BidLoQ3tFFIBtj5wG9GuB_aI3mukA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
